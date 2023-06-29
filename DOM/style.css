@@ -1,0 +1,10 @@
+.div {
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	margin-bottom: 10px;
+}
+
+p {
+	cursor: pointer;
+}
