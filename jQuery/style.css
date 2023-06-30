@@ -1,0 +1,10 @@
+.div-one {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	margin: 10px;
+}
+
+p {
+	cursor: pointer;
+}
